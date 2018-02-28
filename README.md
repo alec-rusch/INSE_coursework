@@ -37,3 +37,6 @@
 8. Testing phase, look for errors, try to break it.
 
 10. Implement JavaDOC and comments throughout.
+
+--------------------
+Alec
